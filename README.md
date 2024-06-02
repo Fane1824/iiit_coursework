@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains all the assignments and examinations conducted in the courses I took during my time at the International Institute of Information Technology Hyderabad (IIIT Hyderabd). Alongside copies of exam papers, it also contains memory-based questions from subjects which do not give out question papers and also answer keys for certain subjects, whenever they have been provided. Projects completed as part of coursework are not included as they are contained within separate repositories. 
+This repository contains all of the assignments and examinations conducted in the courses I took during my time at the International Institute of Information Technology Hyderabad (IIIT Hyderabd). Alongside question papers, it also contains memory-based questions from subjects that do not give out question papers and answer keys for certain subjects, whenever they have been provided. Projects completed as part of coursework are not included as they are contained within separate repositories. 
 
 # Semester 1
 
